@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+
+span.brand-first {
+  color: #00cf00;
+}
+
+span.brand-second {
+  color: #f1f1f1;
+}
+
+div.navbar-fix {
+  margin: 7px 0 0 0;
+}
